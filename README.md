@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Agustin Moya</h3>
 <p align="center">
-  <a href="https://alagusamg.io">Website</a> •
+  <a href="https://elagusamg.io">Website</a> •
   <a href="https://twitter.com/agussmoya">Twitter</a>
 </p>
 
