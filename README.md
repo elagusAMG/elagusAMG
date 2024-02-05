@@ -9,11 +9,9 @@
 
 I love sharing my knowledge with others. When I'm not coding, you can find me playing basketball 🏀 (sometimes in breweries) and reading posts about tech 🤓
 
-
-- 😄 My Pronouns: He/Him
-- 💬 Ask me about: React, Node, Javascript and Typescript
-- 🔭 Currently working: fast-feedback and chat app
-- 🌱 Learning: Nextjs
+- 💬 Ask me about: React, Node, Javascript and Typescript.
+- 🔭 Currently working: At Perlego, focused on web performance.
+- 🌱 Learning: Rust 🦀
 - 📫 How to reach me: [@agussmoya](https://twitter.com/agussmoya)
 
 <!--
