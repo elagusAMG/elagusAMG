@@ -11,7 +11,7 @@ I love sharing my knowledge with others. When I'm not coding, you can find me pl
 
 - 💬 Ask me about: React, Node, Javascript and Typescript.
 - 🔭 Currently working: At Perlego, focused on web performance.
-- 🌱 Learning: Rust 🦀
+- 🌱 Learning: Python 🐍
 - 📫 How to reach me: [@agussmoya](https://twitter.com/agussmoya)
 
 <!--
