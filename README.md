@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Agustin Moya</h3>
 <p align="center">
-  <a href="https://elagusamg.io">Website</a> •
+  <a href="https://www.linkedin.com/in/agustinmoya/">Linkedin</a>
   <a href="https://twitter.com/agussmoya">Twitter</a>
 </p>
 
@@ -10,8 +10,8 @@
 I love sharing my knowledge with others. When I'm not coding, you can find me playing basketball 🏀 (sometimes in breweries) and reading posts about tech 🤓
 
 - 💬 Ask me about: React, Node, Javascript and Typescript.
-- 🔭 Currently working: At Perlego, focused on web performance.
-- 🌱 Learning: Python 🐍
+- 🔭 Currently working: Looking for new opportunities
+- 🌱 Learning: Rust
 - 📫 How to reach me: [@agussmoya](https://twitter.com/agussmoya)
 
 <!--
